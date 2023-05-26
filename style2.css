@@ -1,0 +1,21 @@
+.boxOne {
+    width: 300px;
+    height: 200px;
+    background-color:tomato;
+    margin: 100px 0px 50px 50px
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px
+    border-color: greenyellow;
+}
+
+.boxTwo {
+    width: 300px;
+    height: 200px;
+    background-color:dodgerblue;
+    margin: 100px 0px 50px 50px
+}
+.boxDescription {
+    font-size: 25px;
+}
